@@ -1,5 +1,5 @@
 // Aula 09 - 26/08/2021
-// Grupo 1: Pedro Cardoso, Lelia Salles, Luiz Henrique, Mario Braga e Paulo Rossi
+// Aluno: Mario Roberto Martins de S. S. Braga
 
 /* - Precisamos desenvolver um menu para um microondas super veloz, onde teremos 5 opções de comida com seus respectivos tempos pré-definidos. 
 
@@ -15,6 +15,9 @@
 - Se o tempo for 3x maior que o necessário para o prato, o microondas deve exibir a mensagem: “kabumm”;
 - No final de cada tarefa, o microondas deverá exibir a mensagem: "Prato pronto, bom apetite!!!".
  */
+
+// Foi um sucesso! compreendido todo o caminho.
+
 
 // Função de execução do microondas
 function microondas(opcao, tempo){
